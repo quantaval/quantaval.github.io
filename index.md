@@ -6,4 +6,4 @@ QuantaVal is a quantitative valuation engine: 88 models in the Hyper Engine, 62 
 
 ## Research
 
-- [Reverse DCF](./reverse-dcf.html)
+- [Reading the Market's Forecast: What a Reverse DCF Reveals](./reverse-dcf.html)
