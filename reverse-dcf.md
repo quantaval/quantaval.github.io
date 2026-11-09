@@ -8,6 +8,8 @@ A reverse DCF starts from today's price instead of a growth forecast. It asks: w
 
 That simple shift in direction changes the question an investor has to answer. Rather than estimating future cash flows, you can read the market's own implied growth — and then judge for yourself whether that growth is credible.
 
+A [discounted cash flow model](https://quantaval.com/dcf-calculator) starts from your assumptions and estimates what a stock is worth. A reverse DCF starts from today's price and works out the growth the market is already assuming. That single inversion turns a price debate into an operating question you can actually check.
+
 ## When a share price is already telling you the story
 
 Every stock price contains a forecast. Before you buy a share, the price has already answered — now it is worth asking the right question in return.
@@ -26,7 +28,7 @@ There is no closed-form answer — you test growth rates until the equation bala
 
 ## A worked example
 
-Take a company with these numbers:
+Take a hypothetical company, Example Corp — invented for teaching only, not a real company. It has these numbers:
 
 - Current share price: $60.00
 - Shares outstanding: 500 million
