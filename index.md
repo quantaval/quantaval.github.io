@@ -7,3 +7,5 @@ QuantaVal is a quantitative valuation engine: 88 models in the Hyper Engine, 62 
 ## Research
 
 - [Reading the Market's Forecast: What a Reverse DCF Reveals](./reverse-dcf.html)
+- [When Growth Pays: Reading the Gap Between ROIC and WACC](/roic-vs-wacc.html)
+- [ROE as a Price Tag: Valuing Book-Value Businesses with Residual Income](/roe-residual-income.html)
